@@ -7,7 +7,7 @@
         $ctgDatas[]= $data;
     }
 ?>
-
+<?php echo "hello "?>
 <?php include_once('includes/head.php'); ?>
 <<!DOCTYPE html>
 <html  lang="bn">
